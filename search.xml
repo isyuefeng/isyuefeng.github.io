@@ -4,32 +4,6 @@
   
     
     <entry>
-      <title>wrng</title>
-      <link href="2021/02/wrng/"/>
-      <url>2021/02/wrng/</url>
-      
-        <content type="html"><![CDATA[<h1 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h1>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>计算机组成原理复习1</title>
-      <link href="2021/01/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E5%A4%8D%E4%B9%A01/"/>
-      <url>2021/01/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E5%A4%8D%E4%B9%A01/</url>
-      
-        <content type="html"><![CDATA[<!-- <div class="note success flat"><p>success 提示块标籤</p></div><div class="note info flat"><p>info 提示块标籤</p></div> <p>–&gt;</p><h1 id="一、计算机的基本概念"><a href="#一、计算机的基本概念" class="headerlink" title="一、计算机的基本概念"></a>一、计算机的基本概念</h1><p>计算机是一种能够运行存储的程序，自动，高速处理海量数据的现代化智能电子设备。</p><h2 id="1-冯诺依曼结构计算机"><a href="#1-冯诺依曼结构计算机" class="headerlink" title="1.冯诺依曼结构计算机"></a>1.冯诺依曼结构计算机</h2><h3 id="1-特点"><a href="#1-特点" class="headerlink" title="1.特点"></a>1.特点</h3><ol><li>计算机=存储器+运算器+控制器+输入设备+输出设备。</li><li>所有的程序都是用二进制形式存储在内存中的。</li><li>计算机应该能够自动按照程序的要求执行指令。</li></ol>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>JdbcTemplate</title>
       <link href="2020/11/JdbcTemplate/"/>
       <url>2020/11/JdbcTemplate/</url>
