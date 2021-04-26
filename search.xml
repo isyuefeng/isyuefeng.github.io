@@ -4,6 +4,56 @@
   
     
     <entry>
+      <title>Springboot</title>
+      <link href="2021/04/Springboot-0/"/>
+      <url>2021/04/Springboot-0/</url>
+      
+        <content type="html"><![CDATA[<hr><!--<div class="note blue icon modern"><i class="note-icon fas fa-bullhorn"></i><p>提示框</p></div><div class="note green icon modern"><i class="note-icon fa fa-rocket"></i><p>📚 <a href="">文档目录</a>              </p><p>🚀 快速开始 - 📑 主题页面 - 🛠 主题配置-1 - ⚔️ 主题配置-2 - ❓ 主题问答 - ⚡️ 进阶教程 - ✨ 更新日誌 - 🤞 打赏</p></div><div class="note red icon modern"><i class="note-icon fas fa-skull-crossbones"></i><p>危险框</p></div><p>–&gt;</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 第一层 </category>
+          
+          <category> 第一层 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> tag1 </tag>
+            
+            <tag> tag2 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>SpringBoot</title>
+      <link href="2021/04/SpringBoot/"/>
+      <url>2021/04/SpringBoot/</url>
+      
+        <content type="html"><![CDATA[<hr><!--<div class="note blue icon modern"><i class="note-icon fas fa-bullhorn"></i><p>​    提示框</p></div><div class="note green icon modern"><i class="note-icon fa fa-rocket"></i><p>​    📚 <a href="">文档目录</a>              </p><p>​    🚀 快速开始 - 📑 主题页面 - 🛠 主题配置-1 - ⚔️ 主题配置-2 - ❓ 主题问答 - ⚡️ 进阶教程 - ✨ 更新日誌 - 🤞 打赏</p></div><div class="note red icon modern"><i class="note-icon fas fa-skull-crossbones"></i><p>​    危险框</p></div><p>–&gt;</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Spring </tag>
+            
+            <tag> SPringboot </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>itext-PDF报表</title>
       <link href="2021/03/itext-PDF%E6%8A%A5%E8%A1%A8/"/>
       <url>2021/03/itext-PDF%E6%8A%A5%E8%A1%A8/</url>
